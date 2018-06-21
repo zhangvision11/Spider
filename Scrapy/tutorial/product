@@ -1,0 +1,1427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>德骏核心对冲1号基金-私募基金数据详情-私募排排网simuwang.com</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="keywords" content="德骏核心对冲1号基金德骏滔利投资,,私募基金德骏核心对冲1号基金,德骏核心对冲1号基金历史净值,德骏核心对冲1号基金排名,德骏核心对冲1号基金业绩回报,走势图,私募基金,私募排排网simuwang.com" />
+<meta name="Description" content="查看德骏核心对冲1号基金最新净值德骏滔利投资,德骏核心对冲1号基金历史净值,德骏核心对冲1号基金业绩汇报,走势图以及自定义区间,查看私募基金净值就到私募排排网simuwang.com" />
+	<link rel="stylesheet" type="text/css" href="/Public/Css/DataCenter/pure-min.css?v=2.2.1" />
+	<link rel="stylesheet" type="text/css" href="/Public/Css/DataCenter/style.css?v=2.2.3" />
+	<link rel="stylesheet" type="text/css" href="/Public/Css/DataCenter/dc.css?v=2.2.3" />
+	<link rel="shortcut icon" href="https://www.simuwang.com/favicon.ico" >
+	
+	<link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
+	<link rel="stylesheet" type="text/css" href="https://www.simuwang.com/Public/Css/Simuwang/header_default.css?v=2.2.3">
+	
+    <!--[if lt IE 9]>
+	<script type="text/javascript" src="/Public/Js/DataCenter/modernizr.js"></script>
+	<script type="text/javascript" src="/Public/Js/DataCenter/respond.js"></script>
+	<script type="text/javascript" src="/Public/Js/DataCenter/html5shiv.js"></script>
+    <script src="https://cdn.bootcss.com/es5-shim/4.5.9/es5-shim.min.js"></script>
+    <script src="https://cdn.bootcss.com/es5-shim/4.5.9/es5-sham.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://www.simuwang.com/Public/Css/Simuwang/header_default.ie8.css?v=2.2.2">
+    <![endif]-->
+	<!--<script type="text/javascript" src="/Public/Js/jquery-1.7.2.min.js"></script>-->
+	
+	<!--<script type="text/javascript" src="/Public/Js/DataCenter/common.js"></script>-->
+    <!--<script src="https://cdn.hcharts.cn/highcharts/highcharts.js"></script>-->
+    <!--<script src="https://cdn.bootcss.com/highcharts/5.0.10/js/modules/exporting.js"></script>-->
+
+<script type="text/javascript" src="/Public/dist/vendor-d19840.bundle.js"></script></head>
+<script rel="nofollow" src="https://www.simuwang.com//global/common/mt/simple/t/1528856345/force_login/1.html" charset="UTF-8"></script>
+
+<script type="text/javascript" src="/Public/Js/DataCenter/layer/layer.js"></script>
+<script type="text/javascript" src="/Public/Js/DataCenter/jquery.fly.min.js"></script>
+<!--[if lte IE 9]>
+<script type="text/javascript" src="/Public/Js/DataCenter/requestAnimationFrame.js"></script>
+<![endif]-->
+
+<div id="tipsAll">检测到您当前使的浏览器版本过低，为了更好的体验效果，请升级IE9以上浏览器。<a class="red" href="https://www.microsoft.com/zh-cn/download/details.aspx?id=43206">立即升级 <em>&gt;&gt;</em></a></div>
+
+<div class="header">
+	  <div class="cm-navtop">
+
+      </div>
+</div>
+<style>
+    #headerALL #header .select_box .select_showbox {background-image: none;}
+    #headerALL #header .search .select .placeholder:after {left: 40px;}
+</style>
+<div id="headerALL">
+    <div id="header">
+        <div class="logo"><a href="https://www.simuwang.com/"><span>私募排排网</span></a></div>
+        <div class="search nav-search-form">
+            <form action="https://www.simuwang.com/search/index" method="post" target="_blank" accept-charset="utf-8">
+                <div class="select select_box select_box1 fl">
+                    <div class="select_showbox select_showbox1 placeholder">全部</div>
+                    <ul class="select_option select_option1 select_type_list" style="display: none;">
+                        <li data-tname="all" class="selected">全部</li>
+                        <li data-tname="fund">基金</li>
+                        <li data-tname="fund_pe">股权</li>
+                        <li data-tname="company">公司</li>
+                        <li data-tname="manager">经理</li>
+                        <li data-tname="luyan">路演</li>
+                        <li data-tname="article">资讯</li>
+                    </ul>
+                </div>
+                <label>
+                    <input type="text" data-placeholder="请输入产品/经理/公司关键字" name="key"
+                           value="请输入产品/经理/公司关键字" autocomplete="off" id="nav_keyword"/>
+                </label>
+                <button class="nav-search-btn"><span class="fa-search"></span></button>
+                <div id="keylist" class="search_keyList" style="display: none;">
+                </div>
+            </form>
+            <div class="hot">
+                <a href="http://cpzt.simuwang.com/newfund/ppfofjj/" title="排排网FOF" data-stat_terminal_type="pc"
+                       data-stat_place="index_search" data-id="" data-stat_fund_id="null"
+                       data-stat_fund_short_name="排排网FOF" class="nav-search-hot red" target="_blank">排排网FOF</a><a href="http://dc.simuwang.com/product/HF000029GQ.html" title="保银紫荆怒放" data-stat_terminal_type="pc"
+                       data-stat_place="index_search" data-id="" data-stat_fund_id="null"
+                       data-stat_fund_short_name="保银紫荆怒放" target="_blank">保银紫荆怒放</a><a href="http://cpzt.simuwang.com/newfund/ppwyxjqzhyq/" title="排排优选进取组合" data-stat_terminal_type="pc"
+                       data-stat_place="index_search" data-id="" data-stat_fund_id="null"
+                       data-stat_fund_short_name="排排优选进取组合" target="_blank">排排优选进取组合</a>
+            </div>
+        </div>
+        <div class="hotline">
+            <span class="radius"></span>
+            <span class="fa-phone"></span>400-680-3928
+            <a href="javascript:;" class="button dc-yy-btn" data-name="索取财富增值方案">免费索取财富增值方案 &nbsp;<em>></em></a>
+        </div>
+        <div class="navigation">
+            <a href="https://www.simuwang.com/" target="_self">首页</a>
+            <a href="https://dc.simuwang.com/" target="_self" class="current">私募排名</a>
+            <a href="https://www.simuwang.com/simulist" target="_self">百万理财</a>
+            <a newnav href="https://www.simuwang.com/simulist/stockList.html">私募股权</a>
+            <a newnav href="https://www.simuwang.com/fundinvest/index.html?from=dc" target="_blank">私募定投</a>
+            <a href="https://ly.simuwang.com/" target="_self">路演中心</a>
+            <a href="https://www.simuwang.com/news/research.html" target="_self">投研中心</a>
+            <a href="https://www.simuwang.com/news/" target="_self">新闻资讯</a>
+            <a href="https://www.simuwang.com/simuservice" target="_self">机构业务</a>
+        </div>
+    </div>
+</div>
+
+<div class="navigationMenuAll">
+    <div class="navigationMenu">
+        <ul>
+        <li class="fa-caret-up p1"></li>
+        <li><a href="https://dc.simuwang.com/">私募排行榜</a></li><li><a href="https://dc.simuwang.com/Manager/index.html">私募经理</a></li><li><a href="https://dc.simuwang.com/Company/index.html">私募公司</a></li><li><a href="https://dc.simuwang.com/Mainhold/index.html">私募重仓</a></li><li><a href="https://dc.simuwang.com/Index/marketIndex.html">私募指数</a></li>
+        </ul>
+    </div>
+</div>
+
+
+ <div class="container all-bgroud-color2 all-container" id="fund-detail-box">
+    <div class="fund-dt-left">
+        <div class="fund-dt-top relativePos">
+            <span class="h3 blackTxt txtBold fl fname">德骏核心对冲1号基金</span>
+            <div class="dt-top-btns relativePos">
+                <a class="fund-blue-btn setCmpFund" fundId="HF000019O2">+ 对比</a><a
+                    class="fund-blue-btn setOptionalFund" isSelected="0"
+                    fundId="HF000019O2">+ 自选</a><a class="fund-phone"><i
+                    class="starIcon a35"></i><span>手机查看</span></a>
+                <div class="phone-look">
+                    <div class="img-div">
+                        <img src="//dc.simuwang.com/Qr/?fund_id=HF000019O2"
+                             width="112" height="112"/>
+                    </div>
+                    <span>扫描二维码分享给朋友</span>
+                </div>
+            </div>
+            <div class="product-detail product-detail-state" style="top: 80px;left: 35px;">提前清算            </div>
+            <div class="product-detail product-detail-stretegy" style="top: 80px;left: 120px;">相对价值            </div>
+            <div class="deadLine" style="top: 84px;left: 220px;width: 150px;height: 30px;">(截止日期：2017-05-26)
+            </div>
+            <div class="mt40"></div>
+            <div class="dt-top-txt ">
+                <div class="all-inblock mwidth196">最新净值：<span class="blackTxt">--</span>
+                </div>
+                <div class="all-inblock mwidth196 ">今年收益：--            </div>
+            <div class="all-inblock mwidth196">近一年融智评级：
+                <div class="icon-star-list2">--</div>
+            </div>
+            <div class="all-inblock mwidth230">基金经理：
+                <div class="dt-top-mana">--</div>
+            </div>
+            <div class="all-inblock mwidth196">累计净值：<span class="blackTxt">--</span></div>
+            <div class="all-inblock mwidth196">累计收益：--</div>
+            <div class="all-inblock mwidth196">今年以来排名：<span>--</span></div>
+            <div class="all-inblock mwidth230">基金公司：<a href="/company/CO00000C10.html" target="_blank" title="点击查看上海德骏滔利投资管理有限公司详情"><span class="f_yellow">德骏滔利投资</span></a></div>
+        </div>
+        <div class="avg-tip">
+            <div class="avg-txt">
+                <div class="mtop20"></div>
+            </div>
+        </div>
+    </div>
+    <div class="mt20 all-bgroud-color"></div>
+    <div class="fund-dt-main">
+        <div class="nav-tab-container">
+            <ul class="list-no-style nav-tabs" id="fund-tab">
+                <li data-toggle="tab-1-1" class="first-item active"><span>业绩分析</span></li>
+                <li data-toggle="tab-1-2"><span>产品要素</span></li>
+            </ul>
+        </div>
+        <div class="tab-content" id="fund-tab-content">
+            <div class="tab-pane active" id="tab-1-1">
+                <div id="tab-1-1-one">
+                    <div class="small-nav">
+                        <div class="fund-networth-nav fund-nav"><a class="active" data-toggle="nworth-tab-1">图表</a><a
+                                data-toggle="nworth-tab-2">表格</a></div>
+                        <div id="nworth-tab-1" class="tab-active ftab">
+                            <div class="h4 relativePos "><span class="redTxt txtBold">净值</span><span
+                                    class="txtBold">走势</span>
+                                <div class="deadLine" style="left: 90px;top: 8px;">(截止日期：2017-05-26)
+                                </div>
+                            </div>
+                            <div class="grey-line"></div>
+
+                            <div class="title-select-box zindex20 mwidth237 mt30"><span
+                                    class="title-select">净值展示：</span>
+                                <div class="select-com-box select_box select_box6" id="networth_nav_flag"
+                                     data-value='2'>
+                                    <div class="scb-txt select_showbox select_showbox2">分红不投资</div>
+                                    <ul class="select_option select_option2">
+                                        <li data-value='1'>分红再投资</li>
+                                        <li data-value='2'>分红不投资</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="title-select-box mtop20 zindex19 mwidth237 mt30"><span class="title-select">参考指数：</span>
+                                <div class="select-com-box select_box select_box6" id="networth_index_flag" data-value="0">
+                                    <div class="scb-txt select_showbox select_showbox2">沪深300                                    </div>
+                                    <ul class="select_option select_option2">
+                                        
+                                        <li data-value="0">沪深300</li>
+                                                                                <li data-value="4">中证500</li>
+                                        <li data-value="1">商品期货指数</li>
+                                        <li data-value="2">中债总指数</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="title-select-box mt30">
+                                <div class="select-com-box select_box select_box7" id="networth_rz_flag"
+                                     data-value='3'>
+                                    <div class="scb-txt select_showbox select_showbox2">融智-相对价值指数                                    </div>
+                                    <ul class="select_option select_option2">
+                                        <li data-value="0">融智-股票策略指数</li>
+                                        <li data-value="1">融智-固定收益指数</li>
+                                        <li data-value="2">融智-管理期货指数</li>
+                                        <li data-value="3">融智-相对价值指数</li>
+                                        <li data-value="4">融智-事件驱动指数</li>
+                                        <li data-value="5">融智-宏观策略指数</li>
+                                        <li data-value="6">融智-组合基金指数</li>
+                                        <li data-value="7">融智-复合策略指数</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="fund-zsbtns" id="networth_period" data-value="0">
+                                <a data-value='13'>今年以来</a>
+                                <a data-value='12'>最近一年</a>
+                                <a data-value='24'>最近两年</a>
+                                <a data-value='36'>最近三年</a>
+                                <a data-value='60'>最近五年</a>
+                                <a data-value='0' class="active">成立以来</a>
+                            </div>
+                            <div class="mt30"></div>
+
+                            <div id="fundNetworth"></div>
+                            <div class="grey-line5" style="margin-bottom: 10px;"></div>
+                            <p style="font-size: 16px;color: #333;">相关数据服务由<a
+                                    href="http://fof.simuwang.com/login/detailf"
+                                    style="color: #46A0FD;text-decoration: underline;" target="_blank">组合大师</a>提供</p>
+
+
+                        </div>
+                        <div id="nworth-tab-2" class="tab-no-active ftab">
+                            <div class="h4 relativePos "><span class="redTxt txtBold">历史</span><span
+                                    class="txtBold">净值</span>
+                                <div class="deadLine" style="left: 90px;top: 8px;">(截止日期：2017-05-26)
+                                </div>
+                            </div>
+                            <div class="grey-line"></div>
+
+                            <div id="fundNetworth-table">
+                                <div class="networth-table-head">
+                                    <table>
+                                        <thead>
+                                        <th class="fundEarning-th first-th tleft">净值日期</th>
+                                        <th class="fundEarning-th fworth-w42 tright">单位净值</th>
+                                        <th class="fundEarning-th fworth-w42 tright">
+                                            <div class="fr">
+                                                <div class="tcenter">累计净值<br>(分红再投资)</div>
+                                            </div>
+                                        </th>
+                                        <th class="fundEarning-th fworth-w42 tright">
+                                            <div class="fr">
+                                                <div class="tcenter">累计净值<br>(分红不投资)</div>
+                                            </div>
+                                        </th>
+                                        <th class="fundEarning-th tright last-th">净值变动</th>
+                                        </thead>
+                                    </table>
+                                </div>
+                                <div class="networth-table-no">
+                                    <div class="nodata-box2 mtop45 dcenter"></div>
+                                </div>
+                                <div class="networth-table-body">
+                                    <table class="fundworth-table fund-table" id="networth-table" data-page='1'
+                                           data-type="nav">
+                                        <tbody>
+                                        <tr>
+                                            <td class="first-td">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="last-td"><span class="f_red">登录可见</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="first-td">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="last-td"><span class="f_red">登录可见</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="first-td">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="last-td"><span class="f_red">登录可见</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="first-td">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="last-td"><span class="f_red">登录可见</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="first-td">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="fworth-w42">登录可见</td>
+                                            <td class="last-td"><span class="f_red">登录可见</span></td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="h4 mtop45 txtBold relativePos"><span class="redTxt">动态</span>回撤
+                        <div class="deadLine" style="left: 90px;top: 8px;font-weight: normal;">(截止日期：2017-05-26)
+                        </div>
+                    </div>
+                    <div class="grey-line"></div>
+                    <div class="small-nav">
+                        <div id="fundRetracement" style="width: 810px;height: 460px;"></div>
+                    </div>
+                    <div class="grey-line"></div>
+
+
+                    <div class="h4 mtop45 txtBold relativePos"><span class="redTxt">区间</span>收益
+                        <div class="deadLine" style="left: 90px;top: 8px;font-weight: normal;">(截止日期：2017-05-26)
+                        </div>
+                    </div>
+                    <div class="grey-line"></div>
+                    <div class="small-nav">
+                        <div class="title-select-box zindex20 mwidth237 mt30"><span class="title-select">收益区间：</span>
+                            <div class="select-com-box select_box select_box6">
+                                <div class="scb-txt select_showbox select_showbox2">按时间区间</div>
+                                <ul class="select_option select_option2" id="fund-sy-area">
+                                    <li data-toggle="time">按时间区间</li>
+                                    <li data-toggle="year">按年</li>
+                                    <li data-toggle="month">按月</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="mt30"></div>
+                        <div class="fund-earning-nav fund-nav"><a class="active" data-toggle="fear-tab-1">图表</a><a
+                                data-toggle="fear-tab-2">表格</a></div>
+                        <div id="fear-tab-1" class="tab-active ftab">
+                            <div id="fundEarningTime-chart" class="fundEarning"></div>
+                            <div id="fundEarningYear-chart" class="fundEarning tab-no-active"></div>
+                            <div id="fundEarningMonth-chart" class="fundEarning tab-no-active"></div>
+                            <div class="grey-line5"></div>
+                        </div>
+                        <div id="fear-tab-2" class="tab-no-active ftab">
+                            <div id="fundEarningTime-table">
+                                <div class="earning-table-head">
+                                    <table>
+                                        <thead>
+                                        <th class="fundEarning-th first-th tleft"></th>
+                                        <th class="fundEarning-th th2 tright">本基金</th>
+                                        <th class="fundEarning-th th3 tright">沪深300</th>
+                                        <th class="fundEarning-th tright last-th">同类平均</th>
+                                        </thead>
+                                    </table>
+                                </div>
+                                <div class="fundear-table-no">
+                                    <div class="nodata-box2 mtop45 dcenter"></div>
+                                </div>
+                                <div class="earning-table-body">
+                                    <table class="fundEarning-table fund-table">
+
+                                    </table>
+                                </div>
+                            </div>
+                            <div id="fundEarningYear-table" class="tab-no-active">
+                                <div class="earning-table-head">
+                                    <table>
+                                        <thead>
+                                        <th class="fundEarning-th first-th tright"></th>
+                                        <th class="fundEarning-th th2 tright">本基金</th>
+                                        <th class="fundEarning-th th3 tright">沪深300</th>
+                                        <th class="fundEarning-th tright last-th">同类平均</th>
+                                        </thead>
+                                    </table>
+                                </div>
+                                <div class="fundear-table-no">
+                                    <div class="nodata-box2 mtop45 dcenter"></div>
+                                </div>
+                                <div class="earning-table-body ">
+                                    <table class="fundEarning-table fund-table tright">
+
+                                    </table>
+                                </div>
+                            </div>
+                            <div id="fundEarningMonth-table" class="tab-no-active">
+                                <div class="earning-table-head">
+                                    <table>
+                                        <thead>
+                                        <th class="fundEarning-th first-th tright"></th>
+                                        <th class="fundEarning-th th2 tright">本基金</th>
+                                        <th class="fundEarning-th th3 tright">沪深300</th>
+                                        <th class="fundEarning-th tright last-th">同类平均</th>
+                                        </thead>
+                                    </table>
+                                </div>
+                                <div class="fundear-table-no">
+                                    <div class="nodata-box2 mtop45 dcenter"></div>
+                                </div>
+                                <div class="earning-table-body">
+                                    <table class="fundEarning-table fund-table tright">
+
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt45"></div>
+                    <div class="h4 relativePos txtBold">
+                        <span class="redTxt">风格</span>分析
+                        <div class="deadLine" style="left: 90px;top: 8px;font-weight: normal;">(截止日期：2017-05-26)
+                        </div>
+                        <div class="fund-more right35" id="fundFgMoreID"><span>更多</span><i class="starIcon a30"></i>
+                        </div>
+                    </div>
+                    <div class="grey-line"></div>
+                    <table class="fund-fg-table" class="fund-table">
+                        <thead>
+                        <th class="padleft20 tleft"></th>
+                        <th>一年</th>
+                        <th>二年</th>
+                        <th>三年</th>
+                        <th>五年</th>
+                        <th>十年</th>
+                        </thead>
+                        <tbody>
+                        <tr class="odd">
+                            <td class="tleft padleft20">收益等级</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                        </tr>
+                        <tr class="odd">
+                            <td class="tleft padleft20">风险等级</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <p class="fund-fg-ds2">说明：风险等级的评定标准为与相同类型的产品的平均值相比较，判定该产品所处的风险范围。</p>
+                </div><!--end tab-1-1-one-->
+                <div id="tab-1-1-two" style="display: none;">
+                    <div class="h4 txtBold relativePos"><span class="redTxt">收益</span>风险
+                        <div class="deadLine" style="left: 90px;top: 8px;font-weight: normal;">(截止日期：2017-05-26)
+                        </div>
+                    </div>
+                    <div class="grey-line"></div>
+                    <table class="all-table" id="riskTable">
+                        <thead>
+                        <th class="tleft padleft20"></th>
+                        <th>最近一年</th>
+                        <th>最近两年</th>
+                        <th>最近三年</th>
+                        <th>最近五年</th>
+                        <th class="padright20">成立以来</th>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td class="tleft padleft20">年化波动率</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td class="padright20">--</td>
+                        </tr>
+                        <tr class="rodd">
+                            <td class="tleft padleft20">最大回撤</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td class="padright20">--</td>
+                        </tr>
+                        <tr>
+                            <td class="tleft padleft20">夏普比率</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td class="padright20">--</td>
+                        </tr>
+                        <tr class="rodd">
+                            <td class="tleft padleft20">索提诺比率</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td class="padright20">--</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <p class="fund-fg-ds2">提示：1.夏普比率(Sharpe):
+                        衡量基金承担单位风险所获得的超额回报率,即基金总回报率高于同期无风险收益率的部分。该比率越高,基金承担单位风险得</p>
+                    <p class="fund-p">到的超额回报率越高。</p>
+                    <p class="fund-p">2.索提诺比率(Sortino Ratio): 区分了波动的好坏,衡量计算期内相同单位下行风险能获得的超额回报率。该比率越高,基金承担单位下行风险得到的</p>
+                    <p class="fund-p">超额回报率越高。</p>
+
+                    <div class="h4 mtop45 relativePos txtBold"><span class="redTxt">融智</span>评级
+                        <div class="deadLine" style="left: 90px;top: 8px;font-weight: normal;">(截止日期：2017-05-26)
+                        </div>
+                    </div>
+                    <div class="grey-line"></div>
+                    <table class="fund-fg-table" class="fund-table">
+                        <thead>
+                        <th class="tleft padleft20"></th>
+                        <th>一年</th>
+                        <th>二年</th>
+                        <th>三年</th>
+                        <th>五年</th>
+                        <th>十年</th>
+                        </thead>
+                        <tbody>
+                        <tr class="even">
+                            <td class="tleft padleft20">融智星级</td>
+                            <td>
+                                <div class="icon-star-list">
+                                    --                                </div>
+                            </td>
+                            <td>
+                                <div class="icon-star-list">
+                                    --                                </div>
+                            </td>
+                            <td>
+                                <div class="icon-star-list">
+                                    --                                </div>
+                            </td>
+                            <td>
+                                <div class="icon-star-list">
+                                    --                                </div>
+                            </td>
+                            <td>
+                                <div class="icon-star-list">
+                                    --                                </div>
+                            </td>
+                        </tr>
+                        <tr class="even">
+                            <td class="tleft padleft20">收益等级</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                        </tr>
+                        <tr class="odd">
+                            <td class="tleft padleft20">风险等级</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                            <td>--</td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <div class="h4 mtop45 relativePos txtBold"><span class="redTxt">风格</span>分析
+                        <div class="deadLine" style="left: 90px;top: 8px;font-weight: normal;">(截止日期：2017-05-26)
+                        </div>
+                    </div>
+                    <div class="grey-line"></div>
+                    <div class="fund-fgfx-nav fund-nav"><a class="active no-magin-left"
+                                                           data-toggle="fgfx-tab-1">进攻能力</a><a data-toggle="fgfx-tab-2">防守能力</a>
+                    </div>
+                    <div id="fgfx-tab-1" class="tab-active ftab">
+                        <table class="all-table" id="fgfxAttackTable">
+                            <thead>
+                            <th class="tleft padleft20 mwidth100"></th>
+                            <th>最近一年</th>
+                            <th>最近两年</th>
+                            <th>最近三年</th>
+                            <th>最近五年</th>
+                            <th class="padright20">成立以来</th>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td class="tleft padleft20 mwidth100">本基金</td>
+                                <td>--</td>
+                                <td>--</td>
+                                <td>--</td>
+                                <td>--</td>
+                                <td class="padright20">
+                                    --                                </td>
+                            </tr>
+                            <tr class="rodd">
+                                <td class="tleft padleft20 mwidth100">同类平均</td>
+                                <td><span  class="f_red">31.90%</span></td>
+                                <td><span  class="f_red">19.37%</span></td>
+                                <td><span  class="f_red">16.38%</span></td>
+                                <td><span  class="f_red">15.46%</span></td>
+                                <td class="padright20"><span  class="f_red">28.27%</span></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div id="fgfx-tab-2" class="tab-no-active ftab">
+                        <table class="all-table" id="fgfxDefendTable">
+                            <thead>
+                            <th class="tleft padleft20 mwidth100"></th>
+                            <th>最近一年</th>
+                            <th>最近两年</th>
+                            <th>最近三年</th>
+                            <th>最近五年</th>
+                            <th class="padright20">成立以来</th>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td class="tleft padleft20 mwidth100">本基金</td>
+                                <td>--</td>
+                                <td>--</td>
+                                <td>--</td>
+                                <td>--</td>
+                                <td class="padright20">
+                                    --                                </td>
+                            </tr>
+                            <tr class="rodd">
+                                <td class="tleft padleft20 mwidth100">同类平均</td>
+                                <td><span  class="f_red">1.36%</span></td>
+                                <td><span  class="f_red">2.63%</span></td>
+                                <td><span  class="f_red">0.58%</span></td>
+                                <td><span  class="f_fgreen">-11.48%</span></td>
+                                <td class="padright20"><span  class="f_fgreen">-5.80%</span></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <p class="fund-fg-ds2">提示：进攻能力以上行捕获率来表示，衡量反映市场上涨时，基金对市场的敏感程度，代表着此基金的进攻能力，该值越大越好，比1越大，越能战胜市</p>
+                    <p class="fund-p">场。</p>
+                    <p class="fund-p">防守能力以下行捕获率来表示，衡量反映市场下跌时，基金对市场的敏感程度，代表着此基金的防守能力，该值越小越好。如果为负数，则反映基</p>
+                    <p class="fund-p">金在下跌市场里能取得正收益。</p>
+                </div><!--end tab-1-1-two-->
+            </div><!--end tab-1-1-->
+
+            <div class="tab-pane" id="tab-1-2">
+                <div class="h4 txtBold relativePos"><span class="redTxt">产品</span>详情
+                    <div class="deadLine" style="left: 90px;top: 8px;font-weight: normal;">(截止日期：2017-05-26)
+                    </div>
+                </div>
+                <div class="grey-line"></div>
+                <table id="product-detail-table">
+                </table>
+                <p class="fund-fg-ds2">免责声明：私募排排网不对该数据和信息的准确性和完整性负责。投资人及其它相关人士应谨慎核实相关信息，据此操作和投资，风险自负。</p>
+
+                <div class="h4 mtop45 txtBold relativePos"><span class="redTxt">历史</span>分红
+                    <div class="deadLine" style="left: 90px;top: 8px;font-weight: normal;">(截止日期：2017-05-26)
+                    </div>
+                </div>
+                <div class="grey-line"></div>
+                <table class="history-fh-table all-table" id="historyFH" type="ds" data-value='1'>
+                    <thead>
+                    <th colspan="2">历史分红</th>
+                    <tr class="tright">
+                        <td>分红日期</td>
+                        <td>分红额</td>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+                <table class="history-fh-table all-table" id="historyCF" type="ds" data-value='2'>
+                    <thead>
+                    <th colspan="2">历史拆分</th>
+                    <tr class="tright">
+                        <td>拆分日期</td>
+                        <td>拆分比例(1:X)</td>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+                <div class="clear"></div>
+
+                <div class="h4 mtop45 txtBold relativePos"><span class="redTxt">重仓</span>股票
+                    <div class="deadLine" style="left: 90px;top: 8px;font-weight: normal;">(截止日期：2017-05-26)
+                    </div>
+                </div>
+                <div class="grey-line"></div>
+                <table id="fund-stock-table" class="all-table" data-page='1' data-type='mh'>
+                    <thead>
+                    <th class="tleft padleft20" width="70px">序号</th>
+                    <th>股票代码</th>
+                    <th>股票简称</th>
+                    <th>持股数(万股)</th>
+                    <th>占流通股比例%</th>
+                    <th>变动股数(万股)</th>
+                    <th>变动比例%</th>
+                    <th class="padright20">截止日期</th>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+                <p class="fund-fg-ds2">免责声明：私募排排网不对该数据和信息的准确性和完整性负责。投资人及其它相关人士应谨慎核实相关信息，据此操作和投资，风险自负。</p>
+
+            </div><!--end tab-1-2-->
+        </div>
+    </div><!--end fund-dt-main-->
+
+</div><!--end fund-dt-left-->
+<div class="fund-dt-center">
+</div>
+<div class="fund-dt-right">
+    <div class="fdt-r-top">
+    <div class="dcenter">电话预约：<span class="f_red h3">400-680-3928</span></div>
+    <div class="fund-inputbox dcenter yy-input-box">
+        <span>姓名</span>
+        <div class="input-cutline"></div>
+        <div class="finput"><input class="yy_name" name="yy_name" type="text" id="yy_widget_name" value="" data-placeholder="请输入2-10字中文姓名" maxlength="11"></div>
+    </div>
+    <div class="fund-inputbox dcenter yy-input-box">
+        <span>电话</span>
+        <div class="input-cutline"></div>
+        <div class="finput"><input class="yy_phone " name="yy_phone" type="text" id="yy_widget_phone" value="" data-placeholder="请输入11位手机号码" maxlength="11"></div>
+    </div>
+    <input id="yy_widget_fname" value="德骏核心对冲1号" type="hidden"/>
+    <a class="fund-appointment dcenter" id="yy_widget_submit">预约咨询</a>
+</div>    <div class="mt20 all-bgroud-color"></div>
+    <div class="fdt-r-main">
+        <div class="mleft20">
+            <div class="h4 relativePos"><span class="redTxt txtBold">推荐</span><span class="txtBold">产品</span>
+                <div class="fund-more"><a href="/"><span>更多</span><i class="starIcon a30"></i></a></div>
+            </div>
+            <div class="grey-line2"></div>
+            <div class="fund-dt-item">
+    <!--<span>推荐理由:</span><span class="f_red h6">全线盈利，堪称宏观策略之王者</span>-->
+    <span>推荐理由:</span><div class="f_red h6 tjdes">全线盈利，堪称宏观策略之王者</div>    
+    <div class="dt-item-bar"><a href="/product/HF000010BK.html" target="_blank" title="凯丰宏观对冲9号"><i class="starIcon a37"></i><span>凯丰宏观对冲9号</span></a></div>
+    <div class="fzx-btn mtop20 relativePos">
+        <span>近一年星级：</span>
+        <div class="icon-star-list2">
+        <i class="icon icon-rank-red-star"></i><i class="icon icon-rank-red-star"></i><i class="icon icon-rank-red-star"></i><i class="icon icon-rank-red-star"></i><i class="icon icon-rank-gray-star"></i>        </div>
+        <a class="fund-blue-btn2 fun-pos  dc-yy-btn" data-name="凯丰宏观对冲9号">立即咨询</a>
+    </div>
+    <div class="mtop20">
+	    <div class="mwidth122">累计收益：<span  class="f_red">98.20%</span></div>
+	    <div class="mtop25">近一个月收益：<span  class="f_red">0.35%</span></div>
+	    <div class="mwidth122 mtop25">基金经理：<a href="/manager/PL000001AB.html" target="_blank"><span class="f_yellow">吴星</span></a></div>
+	    <div class="mtop25">成立日期：<span>2015-07-29</span></div>
+    </div>
+</div><div class="fund-dt-item">
+    <!--<span>推荐理由:</span><span class="f_red h6">长期稳健高收益，重磅奖项尽入囊中</span>-->
+    <span>推荐理由:</span><div class="f_red h6 tjdes">长期稳健高收益，重磅奖项尽入囊中</div>    
+    <div class="dt-item-bar"><a href="/product/HF00000B1V.html" target="_blank" title="明河优质企业"><i class="starIcon a37"></i><span>明河优质企业</span></a></div>
+    <div class="fzx-btn mtop20 relativePos">
+        <span>近一年星级：</span>
+        <div class="icon-star-list2">
+        <i class="icon icon-rank-red-star"></i><i class="icon icon-rank-red-star"></i><i class="icon icon-rank-red-star"></i><i class="icon icon-rank-red-star"></i><i class="icon icon-rank-gray-star"></i>        </div>
+        <a class="fund-blue-btn2 fun-pos  dc-yy-btn" data-name="明河优质企业">立即咨询</a>
+    </div>
+    <div class="mtop20">
+	    <div class="mwidth122">累计收益：<span  class="f_red">178.00%</span></div>
+	    <div class="mtop25">近一个月收益：<span  class="f_red">0.32%</span></div>
+	    <div class="mwidth122 mtop25">基金经理：<a href="/manager/PL0000008J.html" target="_blank"><span class="f_yellow">张翎</span></a></div>
+	    <div class="mtop25">成立日期：<span>2014-09-23</span></div>
+    </div>
+</div><div class="fund-dt-item">
+    <!--<span>推荐理由:</span><span class="f_red h6">用精算师的视角来做量化交易，盈利源自长期积累</span>-->
+    <span>推荐理由:</span><div class="f_red h6 tjdes">用精算师的视角来做量化交易，盈利源自长期积累</div>    
+    <div class="dt-item-bar"><a href="/product/HF00001GTF.html" target="_blank" title="幻方中证500指数增强1号"><i class="starIcon a37"></i><span>幻方中证500指数增强1...</span></a></div>
+    <div class="fzx-btn mtop20 relativePos">
+        <span>近一年星级：</span>
+        <div class="icon-star-list2">
+        <i class="icon icon-rank-red-star"></i><i class="icon icon-rank-red-star"></i><i class="icon icon-rank-red-star"></i><i class="icon icon-rank-red-star"></i><i class="icon icon-rank-red-star"></i>        </div>
+        <a class="fund-blue-btn2 fun-pos  dc-yy-btn" data-name="幻方中证500指数增强1号">立即咨询</a>
+    </div>
+    <div class="mtop20">
+	    <div class="mwidth122">累计收益：<span  class="f_red">80.70%</span></div>
+	    <div class="mtop25">近一个月收益：<span  class="f_red">0.69%</span></div>
+	    <div class="mwidth122 mtop25">基金经理：--</div>
+	    <div class="mtop25">成立日期：<span>2016-05-04</span></div>
+    </div>
+</div>        </div>
+    </div>
+    <!--end fdt-r-main-->
+</div>
+<div class="cl"></div>
+</div>
+<script>
+    var fundId = 'HF000019O2';
+    var productDetailUrl = '/fund/getPinfo.html?id=HF000019O2&muid=' + muid;
+    var fundName = "德骏核心对冲1号基金";
+</script>
+
+
+<script type="text/javascript" src="/Public/dist/productInfo-29cbbe.bundle.js"></script>
+<!--预约-->
+<div style="width: 1200px;
+    margin: 0 auto;
+    font-size: 12px;
+    font-weight: 700;
+    color: #000;
+    padding: 10px 26px;
+    line-height: 18px;
+    background-color: white;
+	margin-bottom: 20px;
+">重要声明：排排网所有授权数据版权归深圳市排排网投资管理股份有限公司所有。未经排排网事先书面授权，任何人、公司不得擅自进行（包括但不限于: 以非法方式复制、转播、展示、上传、下载）商业目的使用。
+	已取得排排网书面授权的个人、公司，必须注明数据来源私募排排网，否则排排网将依法追究责任。</div>
+<style>
+body.footer-bar-open {
+        padding-bottom: 120px;
+    }
+body.footer-bar-close {
+    padding-bottom: 52px;
+}
+@media(max-width: 768px){
+    body{
+        padding-bottom: 50px;
+    }
+    body.footer-bar-open{
+        padding-bottom: 50px;
+    }
+}
+.footer-yuyue-bar {
+    position: fixed;
+    z-index: 500;
+    bottom: -145px;
+    left: 0;
+    overflow: visible;
+    width: 100%;
+    height: 145px;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+.footer-yuyue-active {
+    bottom: 0;
+}
+.footer-yuyue-bar .yy-content {
+    overflow: hidden;
+    width: 100%;
+    height: 120px;
+    background-color: #d61c2a;
+}
+.footer-yuyue-bar .yy-full-content {
+    overflow: hidden;
+    width: 1202px;
+    height: 120px;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-left: 90px;
+    -webkit-transition: height .1s;
+    -moz-transition: height .1s;
+    -ms-transition: height .1s;
+    -o-transition: height .1s;
+    transition: height .1s;
+    background-image: url(https://www.simuwang.com/Public//Image/Data2/yuyue/icon-yuyue-bar-phone.png);
+    background-repeat: no-repeat;
+    background-position: 4px 25px;
+}
+.footer-yuyue-tip-active {
+    height: 77px;
+}
+.footer-yuyue-bar .yy-icon-white-star {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin: -3px 3px 0;
+    vertical-align: middle;
+    background-image: url(https://www.simuwang.com//Public/Image/DataCenter/yuyue/icon-white-star.png);
+    background-repeat: no-repeat;
+}
+.footer-yuyue-bar .yy-tip-content {
+    display: none;
+    overflow: hidden;
+    width: 840px;
+    height: 52px;
+    margin: 0 auto;
+    padding-top: 12px;
+    font-size: 24px;
+    line-height: 28px;
+    color: #fff;
+    *width: 850px;
+}
+.footer-yuyue-bar .yy-tip-content .yy-tip-slogan {
+    float: left;
+    width: 536px;
+    height: 28px;
+    margin-right: 29px;
+    font-size: 20px;
+    line-height: 28px;
+    border-right: 1px solid #830101;
+}
+.footer-yuyue-bar .yy-tip-content .yy-tip-slogan span {
+    padding: 0 20px;
+}
+.footer-yuyue-bar .yy-tip-content .yy-tip-tel {
+    float: left;
+    height: 28px;
+    padding-left: 32px;
+    font-size: 23px;
+    line-height: 28px;
+    color: #fff;
+    background-image: url(https://www.simuwang.com//Public/Image/DataCenter/yuyue/icon-tel.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+.footer-yuyue-tip-active .yy-full-content {
+    display: none;
+}
+.footer-yuyue-tip-active .yy-tip-content {
+    display: block;
+}
+.footer-yuyue-bar .yy-full-content .yy-slogon {
+    margin-top: 4px;
+    margin-bottom: 16px;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1;
+    color: #fff;
+}
+.footer-yuyue-bar .yy-full-content .yy-hot-line strong {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+.footer-yuyue-bar .yy-tip {
+    margin-top: 12px;
+    font-size: 16px;
+    line-height: 1;
+    color: #fff;
+}
+.footer-yuyue-bar .yy-input-box input {
+    float: left;
+    width: 186px;
+    height: 45px;
+    margin-right: 10px;
+    padding-left: 12px;
+    font-size: 14px;
+    line-height: 45px;
+    color: #333;
+    border-width: 0;
+    border-radius: 4px;
+    outline: none;
+    *width: 174px;
+}
+.footer-yuyue-bar .yy-input-box .input-list {
+    height: 45px;
+}
+.footer-yuyue-bar .yy-input-box .placeholder {
+    color: #999;
+}
+.footer-yuyue-bar .yy-input-box #yy-footer-submit-btn {
+    display: block;
+    float: left;
+    width: 140px;
+    height: 45px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 45px;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: top;
+    color: #fff;
+    border-width: 0;
+    border-radius: 4px;
+    outline: none;
+    background-color: #f80;
+}
+.footer-yuyue-bar .yy-full-content .yy-full-intro {
+    float: left;
+    width: 400px;
+    padding-left: 4px;
+}
+.yy-top-button {
+    position: relative;
+    overflow: hidden;
+    width: 110px;
+    height: 25px;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 25px;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+}
+.yy-top-button .yy-top-button-left {
+    position: absolute;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-bottom: 25px solid #d61c2a;
+    border-left: 15px solid transparent;
+}
+.yy-top-button .yy-top-button-right {
+    position: absolute;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-right: 15px solid transparent;
+    border-bottom: 25px solid #d61c2a;
+}
+.yy-top-button .yy-top-button-text {
+    display: inline-block;
+    width: 80px;
+    height: 25px;
+    background-color: #d61c2a;
+}
+#gr-szm-tip, .gr-login-error-tip3 {
+    line-height: 1;
+}
+
+.layui-layer-shade {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    _height: expression(document.body.offsetHeight+"px");
+}
+.layui-layer, .layui-layer-shade {
+    position: fixed;
+    _position: absolute;
+    pointer-events: auto;
+}
+.layui-layer-content{
+    overflow: hidden;
+    background:#fff;
+}
+.error_box {
+    position: relative;
+    font-size: 18px;
+    line-height: 115px;
+    text-align: center;
+    color: #333;
+}
+.error_box .layui-layer-close, .success_box .layui-layer-close, .yybox .layui-layer-close {
+    position: absolute;
+    top: 13px;
+    right: 13px;
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+    background-image: url(https://www.simuwang.com//Public/Image/DataCenter/yuyue/icon-close.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+.icon-err {
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    margin-right: 14px;
+    vertical-align: middle;
+    background-image: url(https://www.simuwang.com//Public/Image/DataCenter/yuyue/icon-error.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.icon-success {
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    margin-right: 14px;
+    vertical-align: middle;
+    background-image: url(https://www.simuwang.com//Public/Image/DataCenter/yuyue/icon-success.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.success_box .success_title {
+    margin-top: 48px;
+    margin-bottom: 14px;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 34px;
+    text-align: center;
+    color: #333;
+}
+.success_box .success_msg {
+    font-size: 18px;
+    line-height: 1;
+    text-align: center;
+    color: #333;
+}
+
+</style>
+<div class="footer-yuyue-bar">
+	<div class="yy-top-button">
+		<span class="yy-top-button-left"></span><span
+			class="yy-top-button-text">收起预约</span><span
+			class="yy-top-button-right"></span>
+	</div>
+	<div class="yy-content">
+		<div class="yy-full-content">
+			<div class="yy-full-intro">
+				<div class="yy-slogon">证监会核准基金销售机构，13年行业品牌</div>
+				<div class="yy-hot-line">
+					<strong>400-680-3928</strong>
+				</div>
+			</div>
+			<div class="yy-input-box">
+				<div class="input-list">
+					<input class="yy_name " name="yy_name" type="text"
+						id="yy_footer_name" value="" data-placeholder="请输入2-10字中文姓名"
+						maxlength="11"> <input class="yy_phone " name="yy_phone"
+						type="text" id="yy_footer_phone" value=""
+						data-placeholder="请输入11位手机号码" maxlength="11"> <span
+						id="yy-footer-submit-btn">立即预约</span>
+				</div>
+				<div class="yy-tip">理财师将及时与您联系，为您提供全面、专业的产品服务</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="yy-tip-content">
+			<div class="yy-tip-slogan">
+				<i class='yy-icon-white-star'></i><i class='yy-icon-white-star'></i><i
+					class='yy-icon-white-star'></i><span>证监会核准基金销售机构，13年行业品牌</span><i
+					class='yy-icon-white-star'></i><i class='yy-icon-white-star'></i><i
+					class='yy-icon-white-star'></i>
+			</div>
+			<div class="yy-tip-tel">400-680-3928</div>
+		</div>
+	</div>
+</div>
+<script>
+var api_url = "https://www.simuwang.com//booking/doBooking.html";
+
+var is_chinese = /^[\u2E80-\u9FFF]{2,10}$/;
+var isMobile = /^(?:13\d|15\d|18\d|14\d|16\d|17\d)\d{5}(\d{3}|\*{3})$/;
+
+if (typeof(musername) == 'undefined' && typeof(muserphone) == '') {
+	var musername = '';
+	var muserphone = '';
+} else {
+    if (is_chinese.test(musername)) {
+        $('.yy_name').val(musername).removeClass('placeholder');
+    }
+    if (isMobile.test(muserphone)) {
+        $('.yy_phone').val(muserphone).removeClass('placeholder');
+    }
+}
+$('.yy-input-box input,.inputbox input').each(function() {
+    if ($(this).val() == '') {
+        $(this).addClass('placeholder').val($(this).data('placeholder'));
+    }
+});
+$('.yy-input-box input,.inputbox input').on('focus', function() {
+    var placeholder = $(this).data('placeholder');
+    if ($(this).val() == placeholder) {
+        $(this).removeClass('placeholder').val('');
+    }
+});
+$('.yy-input-box input,.inputbox input').on('blur', function() {
+    if ($(this).val() == '') {
+        $(this).addClass('placeholder').val($(this).data('placeholder'));
+    }
+});
+if(typeof(show_error)=='undefined'){
+	function show_error(msg){
+	    if(typeof(layer)!='undefined'){
+	        var width = $('body').width();
+	        var w1 = '450px';
+	        var h1 = '115px';
+	        if(width <640){
+	            w1 = '225px';
+	            h1 = '60px';
+	        }
+	        layer.open({
+	            area: [w1,h1],
+	            type: 1,
+				time:3000,
+	            closeBtn: 0,
+	            shade: [0.7,'#000'],
+	            shadeClose:true,
+	            title: false,
+	            content: '<div class="error_box"><i class="icon-err"></i>'+msg+'<div class="layui-layer-close"></div></div>'
+	        });
+	    }else{
+	        alert(content);
+	    }
+	}	
+}
+if(typeof(show_success)=='undefined'){
+	function show_success(){
+	    var title = typeof(arguments[0]) !='undefined' ? arguments[0] : '预约成功';
+	    // 自选产品id
+	    var content = typeof(arguments[1]) !='undefined' ? arguments[1] : '理财师将尽快与您联系，请保持电话畅通';
+	    if(typeof(layer)!='undefined'){
+	        var width = $('body').width();
+	        var w1 = '450px';
+	        var h1 = '160px';
+	        if(width <640){
+	            w1 = '260px';
+	            h1 = '70px';
+	        }
+	        layer.open({
+	            area: [w1,h1],
+	            type: 1,
+				time:3000,
+	            closeBtn: 0,
+	            shade: [0.7,'#000'],
+	            shadeClose:true,
+	            title: false,
+	            content: '<div class="success_box"><div class="success_title"><i class="icon-success"></i>'+title+'</div><div class="success_msg">'+content+'</div><div class="layui-layer-close"></div></div>'
+	        });
+	    }else{
+	        alert(content);
+	    }
+	}	
+}
+
+
+$(document).delegate('.yy-top-button','click',function(){
+    var text = $('.yy-top-button-text').text();
+    if (text == '收起预约') {
+        $('.yy-top-button-text').text('展开预约');
+        $('.footer-yuyue-bar').addClass('footer-yuyue-tip-active');
+        $('body').removeClass('footer-bar-open').addClass('footer-bar-close');
+    } else {
+        $('.yy-top-button-text').text('收起预约');
+        $('.footer-yuyue-bar').removeClass('footer-yuyue-tip-active');
+        $('body').removeClass('footer-bar-close').addClass('footer-bar-open');
+    }		
+});
+
+$(document).on("click",".dc-yy-btn",function(){
+    dc_yy_name = $(this).data('name');
+
+        $('.yy-top-button-text').text('收起预约');
+        $('.footer-yuyue-bar').addClass('footer-yuyue-active').removeClass('footer-yuyue-tip-active');
+        $('body').removeClass('footer-bar-close').addClass('footer-bar-open');
+});
+
+is_yuyue = 0;
+function do_yuyue(name,phone,fname){
+    if(is_yuyue){
+        return false;
+    }
+    if (!is_chinese.test(name)) {
+        show_error('请输入2-10字中文姓名');
+        return false;
+    }
+    if (!isMobile.test(phone)) {
+        show_error('请输入11位手机号码');
+        return false;
+    }
+    is_yuyue = 1;
+    var source_url = window.location.href;
+    $.ajax({
+        url: api_url,
+        data: {
+            source: 1,
+            ct: fname,
+            n: name,
+            p: phone,
+            f: '100',
+            t: 1,
+            source_url:source_url
+        },
+        dataType: "jsonp",
+        type: "get",
+        success: function(m) {
+            is_yuyue = 0;
+            if (m.suc == '1') {
+            	//$("#yy_footer_name").val("");
+                show_success(m.info);
+            } else {
+                show_error('预约失败，咨询电话:400-680-3928');
+            }
+        }
+    });
+}	
+
+$(function(){
+	$('#yy-footer-submit-btn').on('click',function(){
+	    var name = $('#yy_footer_name').val();
+	    var phone = $('#yy_footer_phone').val();
+	    do_yuyue(name,phone,dc_yy_name);
+	});
+	
+
+})
+</script><footer>
+	<div class="common-footer">
+	</div>
+</footer>
+<!--回到顶部-->
+<a class="view-rules" href="/index/rule.html" style="z-index: 9996;" target="_blank"><img src="/Public/Image/DataCenter/view-rule.png" alt="教你看懂数据中心" /></a>
+<div class="floating_ck" style="z-index: 9996; bottom:80px;">
+	<dl>
+		<dt></dt>
+		<dd>
+			<p class="t1 starIcon"></p>
+			<div class="floating_left">
+				<h3><i></i><span>400-680-3928</span></h3>
+				<input name="phone" type="text" id="pcallback" value="" placeholder="请输入您的手机号"><br>
+				<a class="totell f-click-event" data-event="1524" id="scallback" href="javascript:">预约通话</a>
+			</div>
+			<span class="borderBt"></span>
+		</dd>
+		<!--  <dd>
+           <a class="f-click-event" data-event="1525" href="http://crm2.qq.com/page/portalpage/wpa.php?uin=4006803928&amp;f=1&amp;ty=1&amp;aty=0&amp;a=&amp;from=6" target="_blank">
+             <p class="t2 starIcon"></p>
+           </a>
+           <span class="borderBt"></span>
+         </dd>
+         <dd>
+           <a class="f-click-event" data-event="1526" href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&amp;key=XzkzODE5Mjg4MV8zNDM1MTBfNDAwNjgwMzkyOF8yXw" target="_blank">
+             <p class="t3 starIcon"></p>
+           </a>
+           <span class="borderBt"></span>
+         </dd> -->
+           <dd>
+            <a class="t2 starIcon" data-event="1525" target="_blank" href="http://demo.faqrobot.net/robot/chat1.html?jid=1059&sysNum=15016400845901345"></a>
+            <div class="floating_left floating_left_cservice">
+              <h3><i></i><span>智能客服 &nbsp在线咨询</span></h3>
+              <a class="custom-service-a" data-event="1525" target="_blank" href="http://demo.faqrobot.net/robot/chat1.html?jid=1059&sysNum=15016400845901345">咨询客服</a>
+            </div>
+            <span class="borderBt"></span>
+          </dd>
+		  <dd>
+		    <a class="f-click-event" data-event="1527" href="https://www.simuwang.com/apps/downloads" target="_blank">
+			 <p class="t4 starIcon"></p>
+		    </a>
+			<span class="borderBt"></span>
+		  </dd>
+		  <dd>
+		    <p class="t5 f-click-event starIcon" data-event="1528"></p>
+			<div class="floating_left floating_left_wx">
+				<img src="https://www.simuwang.com/api/webservice/floatright/css/img/erweima.png">
+			</div>
+			<span class="borderBt"></span>
+		</dd>
+		<dd style="border-bottom:none;">
+			<a class="f-click-event" id="goToTop" data-event="1529">
+				<p class="t6 starIcon"></p>
+			</a>
+		</dd>
+	</dl>
+</div>
+<!--回到顶部-->
+<script rel="nofollow" src="https://www.simuwang.com//global/footer" charset="UTF-8"></script>
+
+<script>
+    if (typeof(myheader) == "undefined") {
+
+    }else{
+        $('.header .cm-navtop').replaceWith(myheader); //通用头部
+    }
+
+    if (typeof(footstrVar) == "undefined") {} else {
+        var $footstrVar = $(footstrVar).not('#footer_media_style');
+        $(".common-footer").append($footstrVar); //通用底部
+    }
+
+</script>
+<script>
+    //       $(document).ready(function(){
+    //	      //首页banner
+    //        //$('.index-top-banner').focusSlide();
+    //		//私募经理
+    //		$('.managerbanner').focusSlide();
+    //	   })
+</script>
+
+<script>
+
+</script>
+
+<script type="text/javascript">
+(function() {
+    var script = document.createElement("script");
+    script.src = (typeof(GLB_ANALYSIS_HOST_NAME)!='undefined'?'//'+GLB_ANALYSIS_HOST_NAME:'//analysis.simuwang.com')+"/Public/Js/Analysis/stat.js";
+    var  head = document.getElementsByTagName("head")[0];
+    head.appendChild(script);
+})();
+</script>
+
+<script type="text/javascript">
+    urlParams = '{"id":"HF000019O2"}';
+    if(urlParams) {
+        var oUrlParams = eval('({"id":"HF000019O2"})');
+        //console.log(oUrlParams);
+        $.each($('div.mult_item').find('a.mult_lk'), function() {
+            if(typeof(oUrlParams[$(this).attr('name')]) != 'undefined' && oUrlParams[$(this).attr('name')] == $(this).attr('data')) {
+                $(this).siblings('a').removeClass('mult_checked').end().addClass('mult_checked');
+                if( $('div.mult_other').find($(this)).length > 0 ) {
+                    //$('a.mult_more:contains(展开更多)').hide();
+                    $('a.open-more').parent('div').hide();
+                    $('div.mult_other').show();
+                }
+            }
+        });
+    }
+</script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?c3f6328a1a952e922e996c667234cdae";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+<script type="text/javascript" language="javascript">
+    (function() {
+        var sd = document.createElement("script");
+        sd.src = "//"+(typeof(GLB_MAIN_HOST_NAME)!='undefined' ? GLB_MAIN_HOST_NAME   :'www.simuwang.com')+"/Public/Js/Simuwang/sd.js";
+        var ssd = document.getElementsByTagName("script")[0];
+        ssd.parentNode.insertBefore(sd, ssd);
+    })();
+</script>
+<script>
+    //新浪
+    (function (d, s, id) {
+        var n = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        s = d.createElement(s);
+        s.id = id;
+        s.setAttribute('charset', 'utf-8');
+        s.src = '//dmp.sina.com.cn/fyr.js';
+        n.parentNode.insertBefore(s, n);
+    })(document, 'script', 'fyr-script');
+    _fyr = window._fyr || [];
+    _fyr.push(['_setAccount', 'n5776']);
+</script>
+
+	<script type="text/javascript" src="https://passport.simuwang.com/Static/Passport/Js/smppw_auth_mc.js?v=1.5.1&force_auth=1"></script>
+</body>
+</html>
